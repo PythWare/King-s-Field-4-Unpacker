@@ -1,0 +1,1 @@
+This is an unpacker for King's Field 4 in Python. Credit goes to God(Christian) and myself for the programming. To use the script you need Python 3 installed, have the script in the same directory as your KF4.dat file, and either double click the script or run through the command prompt.
